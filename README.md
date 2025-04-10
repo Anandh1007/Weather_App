@@ -16,7 +16,7 @@
  Weather App – Responsive Web App using HTML, CSS, and JavaScript
 This project is a responsive and interactive Weather Application that fetches and displays real-time weather data for any city using the WeatherAPI service. Built with HTML, CSS, and JavaScript, the app offers a clean, user-friendly interface and dynamically updates weather information based on user input.
 
-🔧 Features:
+ Features:
 City Search: Users can enter the name of any city worldwide to get the current weather.
 
 Real-Time Weather Data: The app fetches live weather details such as temperature, condition (e.g., sunny, cloudy, rainy), humidity, wind speed, and a representative icon.
