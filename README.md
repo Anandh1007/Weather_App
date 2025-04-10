@@ -44,18 +44,13 @@ When the "Get Weather" button is clicked, a JavaScript function is triggered.
 The app sends a GET request to the WeatherAPI endpoint using fetch().
 
 On receiving the response, the app parses the JSON data and displays:
-
 City & Country
-
 Temperature (in Celsius)
-
 Weather Condition
-
 Humidity
-
 Wind Speed
-
 Weather Icon
 
 If the city is invalid or the API fails, an error message is displayed.
 
+#OUTPUT : https://github.com/Anandh1007/Weather_App/issues/1#issue-2984730907
